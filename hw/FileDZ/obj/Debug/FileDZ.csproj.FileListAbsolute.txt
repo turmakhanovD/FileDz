@@ -1,0 +1,6 @@
+C:\Users\Адиль\source\repos\FileHW\FileDZ\bin\Debug\FileDZ.exe.config
+C:\Users\Адиль\source\repos\FileHW\FileDZ\bin\Debug\FileDZ.exe
+C:\Users\Адиль\source\repos\FileHW\FileDZ\bin\Debug\FileDZ.pdb
+C:\Users\Адиль\source\repos\FileHW\FileDZ\obj\Debug\FileDZ.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\source\repos\FileHW\FileDZ\obj\Debug\FileDZ.exe
+C:\Users\Адиль\source\repos\FileHW\FileDZ\obj\Debug\FileDZ.pdb

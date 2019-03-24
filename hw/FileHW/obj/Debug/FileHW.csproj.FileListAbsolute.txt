@@ -1,0 +1,6 @@
+C:\Users\Адиль\source\repos\FileHW\FileHW\bin\Debug\FileHW.exe.config
+C:\Users\Адиль\source\repos\FileHW\FileHW\bin\Debug\FileHW.exe
+C:\Users\Адиль\source\repos\FileHW\FileHW\bin\Debug\FileHW.pdb
+C:\Users\Адиль\source\repos\FileHW\FileHW\obj\Debug\FileHW.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\source\repos\FileHW\FileHW\obj\Debug\FileHW.exe
+C:\Users\Адиль\source\repos\FileHW\FileHW\obj\Debug\FileHW.pdb
